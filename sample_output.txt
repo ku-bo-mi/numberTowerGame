@@ -149,4 +149,4 @@ Computer's tower: [3, 10, 14, 22, 25, 31, 37, 54, 51, 57]
 Your tower:	      [5, 6, 15, 26, 30, 36, 38, 49, 52, 60]
 There were 10 turns made in this game.
 
-Do you want to play again? Type 'Y' to play again or 'N' to finish: 
+Do you want to play again? Type 'Y' to play again or 'N' to finish:
